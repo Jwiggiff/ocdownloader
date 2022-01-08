@@ -103,7 +103,7 @@
 #app-content-wrapper .content-page {
     padding: 0 20px;
     height: 450px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--color-border-dark);
 }
 #app-content-wrapper h3,
 #app-content-wrapper .h3 {
