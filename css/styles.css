@@ -145,7 +145,6 @@
 #app-content-wrapper #controls {
     position: static;
     height: 46px;
-    background-color: rgba(250, 250, 250, 0.95);
 }
 #app-content-wrapper .actions {
     display: inline-block;
